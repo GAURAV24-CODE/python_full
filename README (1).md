@@ -33,5 +33,10 @@ If you used Anaconda, Jupyter Notebook is already installed.
 
 If you installed Python separately, install Jupyter Notebook via pip:
 
-```bash
+
 pip install notebook
+
+
+### YOUR PYTHON IS READY FOR WORK
+
+```bash
